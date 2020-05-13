@@ -1,18 +1,17 @@
-## Python script to download all german Springer books released for free during the 2020 COVID-19 quarantine
+## Python script to download all English Springer books released for free during the 2020 COVID-19 quarantine(To download free German Books follow the link in the courtesy)
+
+###Courtesy
+
+This code repo was downloaded from this link: https://github.com/hathagat/springer_free_german_books?fbclid=IwAR1zUaiaQr5cbSai_1iEG9L3okTybCd0cWRCDY3PZm2Yc5_C_gaLK4pZ9ho
+
+which was for German books. This repo was downloaded and modified accordingly to download English books.
 
 ### Usage
 
-Just run the script in the desired folder. It will automatically create a /download/ subfolder and will categorize the books acording the subject.
-
-If you want to mannually set a folder to download, insert `folder = 'C:/desired_folder/'` in line 11 in main.py.
-
-The books are now organized in sub folders according to the subject ("English Package Name" column).
-
-Now updated to also download epub files if it's available.
+Must have python installed and download this repo to a folder where you want to download the books. Then open cmd and run the following commands in the folder where you have downloaded the repo
 
 If you want just one or two specific books, get the excel file from the folowing link and download just those: https://resource-cms.springernature.com/springer-cms/rest/v1/content/17858272/data/v4
 
-It took about 4 hours to complete the 409 english books (14 GB, both PDF and epub) on my machine.
 
 ### Usage in a virtual environment:
 
