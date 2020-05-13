@@ -2,7 +2,7 @@
 
 ###Courtesy
 
-This code repo was downloaded from this link: https://github.com/hathagat/springer_free_german_books?fbclid=IwAR1zUaiaQr5cbSai_1iEG9L3okTybCd0cWRCDY3PZm2Yc5_C_gaLK4pZ9ho
+This code repo was downloaded from this link: https://bit.ly/2YWKxHa
 
 which was for German books. This repo was downloaded and modified accordingly to download English books.
 
